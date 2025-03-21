@@ -1,5 +1,5 @@
 {
-    "hiragana": [
+    "Hiragana": [
         {"character": "あ", "romaji": "A"}, {"character": "い", "romaji": "I"}, {"character": "う", "romaji": "U"},
         {"character": "え", "romaji": "E"}, {"character": "お", "romaji": "O"},
         {"character": "か", "romaji": "KA"}, {"character": "き", "romaji": "KI"}, {"character": "く", "romaji": "KU"},
@@ -32,7 +32,7 @@
         {"character": "じゃ", "romaji": "JA"}, {"character": "じゅ", "romaji": "JU"}, {"character": "じょ", "romaji": "JO"},
         {"character": "びゃ", "romaji": "BYA"}, {"character": "びゅ", "romaji": "BYU"}, {"character": "びょ", "romaji": "BYO"}
     ],
-    "katakana": [
+    "Katakana": [
         {"character": "ア", "romaji": "A"}, {"character": "イ", "romaji": "I"}, {"character": "ウ", "romaji": "U"},
         {"character": "エ", "romaji": "E"}, {"character": "オ", "romaji": "O"},
         {"character": "カ", "romaji": "KA"}, {"character": "キ", "romaji": "KI"}, {"character": "ク", "romaji": "KU"},
