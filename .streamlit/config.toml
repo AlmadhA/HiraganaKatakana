@@ -5,8 +5,8 @@ enableXsrfProtection = false
 port = 8501
 
 [theme]
-primaryColor = "#8B4513"  # Cokelat klasik
-backgroundColor = "#F5DEB3"  # Warna krem seperti kertas tua
-secondaryBackgroundColor = "#D2B48C"  # Tan untuk sidebar
-textColor = "#000000"  # Hitam klasik untuk teks
-font = "serif"  # Font serif untuk nuansa klasik
+primaryColor = "#8B4513"
+backgroundColor = "#F5DEB3"
+secondaryBackgroundColor = "#D2B48C"
+textColor = "#000000"
+font = "serif"
